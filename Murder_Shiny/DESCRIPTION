@@ -1,0 +1,7 @@
+Title: Murder Data Explorer
+License: MIT
+DisplayMode: Normal
+Author: Mark Davey <kariato@yahoo.com>
+AuthorUrl: 
+Type: Shiny
+Tags: leaflet selectize datatables absolutepanel
